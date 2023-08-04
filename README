@@ -1,0 +1,5 @@
+Desafio criado em typescript.
+
+Obs e necessario tenha o node instalado na maquina.
+Para compilar basta executar tsc nome do arquivo, irar gerar arquivo js, executar
+Caso não queria instalar o node na maquina pode utilizar algum compilador node online
